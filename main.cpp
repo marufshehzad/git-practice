@@ -19,6 +19,7 @@ int main() {
 
     string department = "CSE";
     string university = "AIUB";
+    int age = 21;
 
     // ==========================
     // Display
@@ -33,6 +34,7 @@ int main() {
     cout << "Section    : " << section << endl;
     cout << "Department : " << department << endl;
     cout << "University : " << university << endl;
+    cout << "Age        : " << age << endl;
 
     cout << "\nWelcome to Git and GitHub!" << endl;
 
